@@ -94,7 +94,7 @@ function createProxyingResolver(
     schema,
     operation,
     fieldName,
-    args: {},
+    args,
     context,
     info,
     transforms,
